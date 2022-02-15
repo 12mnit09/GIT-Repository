@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-15T19:52:50 IST" name="Suite" finished-at="2022-02-15T19:52:50 IST" duration-ms="85">
+    <groups>
+    </groups>
+    <test started-at="2022-02-15T19:52:50 IST" name="Test" finished-at="2022-02-15T19:52:50 IST" duration-ms="85">
+      <class name="com.kowsalya.project.TestNGG">
+        <test-method is-config="true" signature="setProperty()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="setProperty" finished-at="2022-02-15T19:52:50 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setProperty -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="launchBrowser" finished-at="2022-02-15T19:52:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="launchURL()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="launchURL" finished-at="2022-02-15T19:52:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchURL -->
+        <test-method signature="appleIphone()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="appleIphone" finished-at="2022-02-15T19:52:50 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appleIphone -->
+        <test-method is-config="true" signature="signIn()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="signIn" finished-at="2022-02-15T19:52:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method is-config="true" signature="signOff()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="signOff" finished-at="2022-02-15T19:52:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOff -->
+        <test-method is-config="true" signature="signIn()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="signIn" finished-at="2022-02-15T19:52:50 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method signature="redmi()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="redmi" finished-at="2022-02-15T19:52:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- redmi -->
+        <test-method is-config="true" signature="signOff()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="signOff" finished-at="2022-02-15T19:52:50 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOff -->
+        <test-method signature="samsung()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="samsung" finished-at="2022-02-15T19:52:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samsung -->
+        <test-method is-config="true" signature="signIn()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="signIn" finished-at="2022-02-15T19:52:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signIn -->
+        <test-method is-config="true" signature="homePage()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="homePage" finished-at="2022-02-15T19:52:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePage -->
+        <test-method is-config="true" signature="signOff()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="signOff" finished-at="2022-02-15T19:52:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOff -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="close" finished-at="2022-02-15T19:52:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="deleteCookies()[pri:0, instance:com.kowsalya.project.TestNGG@3c73951]" started-at="2022-02-15T19:52:50 IST" name="deleteCookies" finished-at="2022-02-15T19:52:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+      </class> <!-- com.kowsalya.project.TestNGG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
